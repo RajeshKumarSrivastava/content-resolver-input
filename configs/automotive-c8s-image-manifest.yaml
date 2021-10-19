@@ -155,6 +155,8 @@ data:
   - snappy
   - yelp
   - yum
+  - neptune3-ui
+  - qt5-qtapplicationmanager
   arch_packages:
     aarch64:
       - grub2-efi-aa64
